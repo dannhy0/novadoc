@@ -1,4 +1,5 @@
 site_name: My Novadoc
+
 nav:
   -Home: index.rst
   -Usage: usage.md
