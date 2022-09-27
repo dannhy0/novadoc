@@ -1,1 +1,3 @@
 # novadoc
+
+:relative-images:
