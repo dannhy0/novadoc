@@ -6,7 +6,7 @@ sphinx:
 python:
   version: 3.8
   install:
-    - requirements:
+    - requirements: docs/requirements.txt
 
 submodules:
   include: all
