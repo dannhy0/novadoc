@@ -1,8 +1,3 @@
-project: Novadoc
-
-site_name: Novalend
-
-author: Dannhy
 
 extensions = ['myst_parser']
 
