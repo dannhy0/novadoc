@@ -1,5 +1,9 @@
 
-extensions = ["myst_parser"]
+extensions = [
+    '...',
+    'myst_parser',
+    
+]
 
 
 # source_parsers = {'.md': 'recommonmark.parser.CommonMarkParser'}
