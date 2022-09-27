@@ -1,6 +1,6 @@
 
 extensions = [
-    '...',
+    '...' ,
     'myst_parser',
     
 ]
